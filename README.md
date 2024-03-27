@@ -30,7 +30,3 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?luizhgdantas&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?luizhgdantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-![octocat-1711547395014](https://github.com/luizhgdantas/luizhgdantas/assets/124115517/b90536c5-acbe-4b38-a039-9092a8623207)
-
-![Snake animation](https://github.com/luizhgdantas/luizhgdantas/blob/output/github-contribution-grid-snake.svg)
